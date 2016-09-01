@@ -1015,7 +1015,6 @@ hi! link javascriptClassStatic GruvboxOrange
 hi! link javascriptOperator GruvboxRed
 hi! link javascriptForOperator GruvboxRed
 hi! link javascriptYield GruvboxRed
-hi! link javascriptExceptions GruvboxRed
 hi! link javascriptMessage GruvboxRed
 
 hi! link javascriptTemplateSB GruvboxAqua
@@ -1042,6 +1041,7 @@ hi! link javascriptFuncArg GruvboxPurple
 hi! link javascriptOpSymbols GruvboxBlue
 hi! link javascriptEndColons GruvboxFg3
 hi! link javascriptBraces GruvboxRed
+hi! link javascriptExceptions GruvboxOrange
 
 " }}}
 " TypeScript: {{{
