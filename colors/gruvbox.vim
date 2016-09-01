@@ -995,7 +995,6 @@ hi! link javascriptClassName GruvboxYellow
 hi! link javascriptClassSuperName GruvboxYellow
 hi! link javascriptGlobal GruvboxYellow
 
-hi! link javascriptEndColons GruvboxFg1
 hi! link javascriptFuncArg GruvboxFg1
 hi! link javascriptGlobalMethod GruvboxFg1
 hi! link javascriptNodeGlobal GruvboxFg1
@@ -1009,7 +1008,7 @@ hi! link javascriptClassSuper GruvboxOrange
 
 " hi! link javascriptFuncKeyword GruvboxOrange
 " hi! link javascriptAsyncFunc GruvboxOrange
-hi! link javascriptFuncKeyword GruvboxAqua
+hi! link javascriptFuncKeyword GruvboxYellow
 hi! link javascriptAsyncFunc GruvboxAqua
 hi! link javascriptClassStatic GruvboxOrange
 
@@ -1037,6 +1036,12 @@ hi! link javascriptDocTags GruvboxFg4
 hi! link javascriptDocNotation GruvboxFg4
 hi! link javascriptDocParamType GruvboxFg4
 hi! link javascriptDocNamedParamType GruvboxFg4
+hi! link javascriptObjectKey GruvboxAqua
+hi! link javascriptFuncDef GruvboxAqua
+hi! link javascriptFuncArg GruvboxPurple
+hi! link javascriptOpSymbols GruvboxBlue
+hi! link javascriptEndColons GruvboxFg3
+hi! link javascriptBraces GruvboxRed
 
 " }}}
 " TypeScript: {{{
