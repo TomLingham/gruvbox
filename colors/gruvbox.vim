@@ -1042,6 +1042,8 @@ hi! link javascriptOpSymbols GruvboxBlue
 hi! link javascriptEndColons GruvboxFg3
 hi! link javascriptBraces GruvboxRed
 hi! link javascriptExceptions GruvboxOrange
+hi! link javascriptTemplateVar GruvboxBlue
+hi! link javascriptTemplateDelim GruvboxPurple
 
 " }}}
 " TypeScript: {{{
